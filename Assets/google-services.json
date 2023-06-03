@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "425072916453",
+    "project_id": "earty-f1c28",
+    "storage_bucket": "earty-f1c28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425072916453:android:c9397568313d05bb4ae10c",
+        "android_client_info": {
+          "package_name": "com.isc.earty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425072916453-pbmvc3dvcvj9s41p5ugto69duipd9h6v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.isc.earty",
+            "certificate_hash": "d34a433ded7a6a23ea8c10244eee3ca041de28c4"
+          }
+        },
+        {
+          "client_id": "425072916453-slmu2ujqf2k1ee055hhbchqvc0r47nr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5J8N9or4VZxLLf6n1rEVpFqcONPM1tyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425072916453-l5tpncd30q9akl49haj8dt66jh1pku9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

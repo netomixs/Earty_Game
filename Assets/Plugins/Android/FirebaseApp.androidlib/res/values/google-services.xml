@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">425072916453</string>
+  <string name="google_storage_bucket" translatable="false">earty-f1c28.appspot.com</string>
+  <string name="project_id" translatable="false">earty-f1c28</string>
+  <string name="google_api_key" translatable="false">AIzaSyC5J8N9or4VZxLLf6n1rEVpFqcONPM1tyI</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC5J8N9or4VZxLLf6n1rEVpFqcONPM1tyI</string>
+  <string name="google_app_id" translatable="false">1:425072916453:android:c9397568313d05bb4ae10c</string>
+  <string name="default_android_client_id" translatable="false">425072916453-pbmvc3dvcvj9s41p5ugto69duipd9h6v.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">425072916453-slmu2ujqf2k1ee055hhbchqvc0r47nr0.apps.googleusercontent.com</string>
+</resources>
